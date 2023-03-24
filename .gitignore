@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/node_modules
+/.vs
+.vs/*
+/cruise-code/.vs/cruise-code
+/cruise-code/.vs
+/cruise-code/.vs/*
